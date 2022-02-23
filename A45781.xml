@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Irish occvrrences, or, A trve relation of the proceedings in Ireland being a copie of a letter / written by a worthy gentleman to a member of the House of Commons from Dublyn.</title>
+            <author>Worthy gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45781</idno>
+            <idno type="STC">Wing I1042</idno>
+            <idno type="STC">ESTC R26814</idno>
+            <idno type="EEBO-CITATION">09550701</idno>
+            <idno type="OCLC">ocm 09550701</idno>
+            <idno type="VID">43597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Irish occvrrences, or, A trve relation of the proceedings in Ireland being a copie of a letter / written by a worthy gentleman to a member of the House of Commons from Dublyn.</title>
+                  <author>Worthy gentleman.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.N. for H.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Dated the tenth of January 1642."</note>
+                  <note>"Published to prevent false copies."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43597:1" rendition="simple:additions"/>
+            <pb facs="tcp:43597:1"/>
+            <p>THE IRISH OCCVRRENCES, OR, A TRVE RELATION OF the Proceedings in <hi>IRELAND.</hi> Being a Copie of a Letter writ<g ref="char:EOLhyphen"/>ten by a worthy Gentleman to a member of the Houſe of Commons from <hi>Dublyn. Dated the tenth of Ianuary</hi> 1642. Publiſhed to prevent falſe Copies.</p>
+            <figure>
+               <figDesc>printer's device or decoration featuring a head and head-dress(not in McKerrow)</figDesc>
+            </figure>
+            <p>LONDON, Printed by <hi>A. N:</hi> for <hi>H. T.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:43597:2"/>
+            <pb n="1" facs="tcp:43597:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He certain news we have, That laſt week on Thurſ<g ref="char:EOLhyphen"/>day Captaine <hi>Barkley</hi> en<g ref="char:EOLhyphen"/>tred with his Pinace and three more into the river of Tredagh, and found it halfe bard with Boats, and a great Chaine, which he ſuddenly burſt, and made that worke uſeleſſe; The towne is relieved with good ſtore of meale and other proviſion, and Captaine <hi>Barkley</hi> came to Dublyn on Wedneſday laſt, but I muſt tell you, on his way homewards hee burnt the towne cal<g ref="char:EOLhyphen"/>led Skeris, and got there ſome Plate and o<g ref="char:EOLhyphen"/>ther good ſtuffe.</p>
+            <p>At the time of the reliefe one Captain <hi>Fox</hi> entred the town by permiſſion of Sir <hi>Henry Titchburne,</hi> with two hundred men, and came as farre as the high Croſſe, and there
+<pb n="2" facs="tcp:43597:3"/> proclaimed the towne was his, but in an in<g ref="char:EOLhyphen"/>ſtant Sir <hi>Henry Titchburne</hi> gave him the ſa<g ref="char:EOLhyphen"/>lutation of a Souldier, for he and all his men were laid dead on the place, and the reſt of the Rebels durſt not venture any further; It is ſaid by thoſe that left Dublyn on Wedneſ<g ref="char:EOLhyphen"/>day laſt, That Sir <hi>Henry</hi> on Saturday laſt ſal<g ref="char:EOLhyphen"/>lied out and killed three hundred. It may be ſo. Since this, ſome troopes of houſe went to Donboyne, ſeaven miles from Dublin, in Meath, and burnt it, The mighty Generall <hi>Fingalle</hi> not daring to venture his perſon in the reliefe; The Souldiers brought from thence foure hundred Cowes, much other Cattell, and much goods. Horſes are deere in Dublyn, yet two ſhillings will ſet hard to get a good Nagg, plate for 2 ſhillings ſix pence the ounce, a merry world at Dublyn:</p>
+            <p>We have a Letter from Sir <hi>Maurice Eu<g ref="char:EOLhyphen"/>ſtace,</hi> That a great party of Wickloe, Kildare, and Carlogh lie at Ratchcoole, but thoſe that came forth on Wedneſday laſt heare no ſuch thing. Sir <hi>Charles Coote</hi> has beene that way ſince, &amp; hath burnt Clandarkan neere
+<pb n="3" facs="tcp:43597:3"/> Bellamount, a great towne, and ſome other townes.</p>
+            <p>From Munſter the Intelligence is the Lord <hi>Dungarvan</hi> is landed with Armes and Mu<g ref="char:EOLhyphen"/>nition, and is gone towards the Fort of Duncannon, in hope to relieve it, wherein the Lord <hi>Eſmund</hi> is, which if it be given up, will be a fault in him, his ſonne Sir <hi>Thomas Eſmund</hi> is turn'd Papiſt, and out certainly in rebellion.</p>
+            <p>The Lord <hi>Viſcount Mountgarret,</hi> and the Lord of Ikerryn, and the reſt of the Lords except <hi>Muſcrey</hi> and <hi>Roch,</hi> are out in Munſter.</p>
+            <p>
+               <hi>Kilkenny</hi> has taken it ſelfe, where my Lord <hi>Mountgarret</hi> is Governour for the Re<g ref="char:EOLhyphen"/>bells.</p>
+            <p>The Earle of Cork is at Yoghall with ſix hundred foot, and ſome horſe, to preſerve that place for the Engliſh landing.</p>
+            <p>As for Waterſord it hath taken it ſelf alſo.</p>
+            <p>From Munſter, the Engliſh have ſent to Scotland to buy 2500 pounds Arms which are now with them. Wee have no more newes from thence. If wee had ſome Ships
+<pb n="4" facs="tcp:43597:4"/> from the coaſt of Munſter, they might pre<g ref="char:EOLhyphen"/>vent Inconveniences, and burne townes that are in rebellion. I know it will terri<g ref="char:EOLhyphen"/>fie them much, and put diſpaire in their mindes, that ſuccours cannot well come, but be taken.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43597:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
